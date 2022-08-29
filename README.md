@@ -29,5 +29,6 @@ I should get ( ) out of 20 on this assignment.
 
 
 ### How long it took me to finish this?
+3 Hours
 
 -----------------------
