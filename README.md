@@ -6,8 +6,8 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 ## Checklist:
 - [x] update the assignment checks above to the correct link
 - [x] update the assignment checks above to the correct link. - Done Automatically
-- [ ] fill out the self evaluation and Reflection
-- [ ] submit the repository and the hosted github pages to Canvas
+- [x] fill out the self evaluation and Reflection
+- [x] submit the repository and the hosted github pages to Canvas
 
 ## Self Grading Guide
 <!--- put an x in each of the completed sections below .. e.g. [x] Task 1 --->
@@ -18,15 +18,15 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
   - presenting content using different HTML tags. i.e. `<ol>`, `<ul>`, `<p>`, `<img>`
   - assigning classes and IDs properly.
   - Styling the page using classes and IDs in the css file.
-- [ ] The Web page is hosted on GitHub Pages. (3 Points)
+- [x] The Web page is hosted on GitHub Pages. (3 Points)
 - [x] Proper usage of git and GitHub and making frequent commits (3 points).
-- [ ] Pull request is submitted. (3 points)
+- [x] Pull request is submitted. (3 points)
 
 <!--- Update the following line with your grade --->
-I should get ( ) out of 20 on this assignment.
+I should get (17) out of 20 on this assignment.
 
 ## Self-Reflection:
-
+I was not sure if I did the pull request right. I learned a lot about git hub as as well as visual stuido code. 
 
 ### How long it took me to finish this?
 3 Hours
